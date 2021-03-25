@@ -18,10 +18,10 @@ Just grab the code from GitHub and deploy it to your Salesforce org with the inc
 If you have a previous version of Nexmo-Salesforce library installed, you will need to use Ant to install/update:
 
 
-1. Checkout or download the [nexmo-salesforce](https://github.com/mhrycenk/nexmo-salesforce) library from GitHub.
+1. Checkout or download the [nexmo-salesforce](https://github.com/o-rod-1/nexmo-salesforce) library from GitHub.
 
     ```bash
-    $ git clone git@github.com:mhrycenk/nexmo-salesforce.git
+    $ git clone git@github.com:o-rod-1/nexmo-salesforce.git
     ```
 
 1. Install the [Force.com Migration Tool](http://www.salesforce.com/us/developer/docs/daas/Content/forcemigrationtool_install.htm) plugin for Ant, if you don't already have it.
