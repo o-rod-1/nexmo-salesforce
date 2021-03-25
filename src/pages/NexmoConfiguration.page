@@ -48,7 +48,7 @@
 
             <div class="slds-form-element">
                 <label class="slds-form-element__label" for="form-element-03">
-                    <abbr class="slds-required" title="required">* </abbr>API Keys</label>
+                    <abbr class="slds-required" title="required">* </abbr>API Key</label>
                 <div class="slds-form-element__control">
                     <input type="text" id="api_key" required="" class="slds-input" value="{!apiKey}" />
                 </div>
