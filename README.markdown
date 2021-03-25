@@ -6,9 +6,6 @@ Installation
 
 We've made it easy to get started. 
 
-**Note:**
-We are currently working to update the Billennium button. While that is occurring, please add the work **main** to the **Branch/Tag/Commit** input box to continue.
-
 Click Here: <a href="https://githubsfdeploy.herokuapp.com?owner=nexmo-community&repo=nexmo-salesforce&ref=main">
    <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png" style="max-width:100%;">
 </a>
