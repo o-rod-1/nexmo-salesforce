@@ -6,7 +6,7 @@ Installation
 
 We've made it easy to get started. 
 
-Click Here: <a href="https://githubsfdeploy.herokuapp.com?owner=nexmo-community&repo=nexmo-salesforce&ref=main">
+Click Here: <a href="https://githubsfdeploy.herokuapp.com?owner=o-rod-1&repo=nexmo-salesforce&ref=main">
    <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png" style="max-width:100%;">
 </a>
 
